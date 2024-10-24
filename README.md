@@ -2,6 +2,7 @@ Projects: MBA with Specialization in Business Analytics, NMIMS, Mumbai.
 ==============================
 ## Data Analysis and Visualization | Microsoft Power BI
 
+### Atliq Hardware Business Insights Dashboard
 [Link to Project](https://github.com/August-Leo/Atliq_Hardware_Business_Insights_Dashboard) 
 #### Domain: Retail, Marketing, Finance, Supply Chain.)
 
