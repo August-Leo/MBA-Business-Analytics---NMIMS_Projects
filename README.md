@@ -1,4 +1,4 @@
-Projects: MBA with Specialization in Business Analytics, NMIMS, Mumbai.
+Projects: MBA with Specialization in Business Analytics, NMIMS, Mumbai. (Aug - 2024)
 ==============================
 ## Data Analysis and Visualization | Microsoft Power BI
 
