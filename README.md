@@ -2,7 +2,7 @@ Projects: MBA with Specialization in Business Analytics, NMIMS, Mumbai.
 ==============================
 ## Data Analysis and Visualization | Microsoft Power BI
 
-### Atliq Hardware Business Insights Dashboard
+### Project: Atliq Hardware Business Insights Dashboard
 [Link to Project](https://github.com/August-Leo/Atliq_Hardware_Business_Insights_Dashboard) 
 #### Domain: Retail, Marketing, Finance, Supply Chain.
 
@@ -16,3 +16,9 @@ enable data driven decision making.
 [Link to Project](https://github.com/August-Leo/Loan_Status_Prediction) 
 
 The goal of this project is to building a Loan Prediction/Approval system using Machine Learning with Python.
+
+### Project 2 : Credit Card Fraud Detection System with Python (Classification Model)
+[Link to Project](https://github.com/August-Leo/Credit_Card_Fraud_Detection) 
+
+The goal of this project is to building a Credit Card Fraud Detection system using Machine Learning with Python.
+
