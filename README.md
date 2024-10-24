@@ -57,3 +57,28 @@ The goal of this project is to Clean, Scrub the data which is most important tas
 The goal of this project is to automate Excel reports. i.e Create a Pivot Table, Add a Bar Chart, Write Excel Formulae's, Format Cells, Convert pivot
 table to excel report, Generate Excel reports with one click.
 
+## Automation | VBA Macros & Selenium
+
+### Project 1 : Dynamic Data Consolidation Tool
+[Link to Project](https://github.com/August-Leo/Data_Consolidation_Tool) 
+
+To map the headers of output template with multiple input files to consolidate the data where Order date is between 1 to 5 of any month. Code is
+dynamic with required alerts and error handler. Date Selection is dynamic as per user requirements.
+
+### Project 2 : Sending Emails with attachment with click of a button
+[Link to Project](https://github.com/August-Leo/Auto_Send_Emails) 
+
+Developed VBA Macro Tool to send emails to recipients with button click.
+
+### Project 3 : Web Automation
+[Link to Project](https://github.com/August-Leo/Web_Automation) 
+
+• Developed a workflow that will Open a Web application > Download and move Excel file to desired folder > input Multiple rows Customer data from
+Excel Spreadsheet into the form fields on the screen and click on Submit Button.
+• Developed a workflow that will Upload a File to the Web application and handle the pop up Alerts if any.
+
+### Project 4 : Web Scrapping
+[Link to Project](https://github.com/August-Leo/Web_Scrapping) 
+
+Developed a Web Scrapping tool using VBA Selenium that will input the Book Names from the list and collect the associated Book information from Book Selling Website
+and place in Excel output File.
