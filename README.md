@@ -23,7 +23,7 @@ The goal of this project is to building a Loan Prediction/Approval system using 
 The goal of this project is to building a Credit Card Fraud Detection system using Machine Learning with Python.
 
 ### Project 3 : Big Mart Sales Prediction System with Python (Regression Model)
-[Link to Project](https://github.com/August-Leo/Big_Mart_Sales_Prediction) 
+[Link to Project](https://github.com/August-Leo/Big_Mart_Sales_Prediction_System) 
 
 The goal of this project is to building a Sales Revenue Prediction system using Machine Learning with Python.
 
