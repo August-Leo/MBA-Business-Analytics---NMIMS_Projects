@@ -6,7 +6,7 @@ Projects: MBA with Specialization in Business Analytics, NMIMS, Mumbai. (Aug - 2
 [Link to Project](https://github.com/August-Leo/Performance_KPI_Dashboard) 
 #### KPI: Gross Profit, Quantity, Sales.
 
-The goal of this project is to Build a Business Performance KPI Repprt as Gross Profit, Quantity, Sales view for current and previous Year comparision.
+The goal of this project is to Build a Business Performance KPI Report as Gross Profit, Quantity, Sales view for current and previous Year comparision.
 We will have an Executive View with overall picture of the business such that stakeholders can unlock insights and
 enable data driven decision making.
 
